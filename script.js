@@ -34,24 +34,24 @@ const YOUTUBE_VIDEOS = [
     duration: 'ያሬዳዊ ወረብ'
   },
   {
-    id: 'U1ajkYrGaaY',
-    title: 'ራስህን | በመካነ ብሥራት ቅዱስ ገብርኤል በተክለ ቴዎፍሎስ የተሰራ',
-    duration: 'አጭር ፊልም'
+    id: 'NqzpxcEZ_OM',
+    title: 'ኦ ማርያም | የግንቦት ልደታ ወረብ እና ቸብቸቦ | ዲ/ን አቤንኤዘር ኃይለ ልዑል',
+    duration: 'ወረብ'
   },
   {
-    id: 'NFnLlOFq7ew',
-    title: 'ዐርክ | የተክለ ቴዎፍሎስ ሰንበት ትምህርት ቤት - ቴዎፍሎሳውያን ሚዲያ',
-    duration: 'መንፈሳዊ ፊልም'
+    id: '5aV1bXOmIVs',
+    title: 'እግዚኡ ረሰዮ | የኅዳር 12 መዝሙር | በተክለ ቴዎፍሎስ ሰንበት ትምህርት ቤት',
+    duration: 'መዝሙር'
   },
   {
-    id: 'p8lUby_3eCY',
-    title: 'የኢያሪኮ መንገድ | The Street of Jericho | ቴዎፍሎሳውያን ሚዲያ',
+    id: 'td4WOdHxPE0',
+    title: 'መሠረተ ዜማ | የግንቦት 11 መዝሙር | በተክለ ቴዎፍሎስ ሰንበት ት/ቤት',
+    duration: 'መዝሙር'
+  },
+  {
+    id: '1YWetbYV1j8',
+    title: 'ቀዳማዊ ቴዎፍሎስ ፓትርያርክ ዘኢትዮጵያ ዐረፉ | ልዩ ዝግጅት',
     duration: 'ልዩ ዝግጅት'
-  },
-  {
-    id: 'm34g3O5ebIg',
-    title: 'ጊዜ ዕረፍታ | የመካነ ብሥራት ቅዱስ ገብርኤል ቤ/ክ ሊቃውንት ወረብ',
-    duration: 'ያሬዳዊ ወረብ'
   }
 ];
 
