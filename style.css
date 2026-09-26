@@ -239,6 +239,11 @@ body::before {
   box-shadow: 0 4px 12px rgba(24, 119, 242, 0.3);
 }
 
+.icon-tiktok {
+  background: linear-gradient(135deg, #000000 0%, #161823 100%);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+}
+
 .icon-calendar {
   background: linear-gradient(135deg, var(--primary-burgundy) 0%, var(--primary-burgundy-dark) 100%);
   box-shadow: 0 4px 12px rgba(110, 18, 32, 0.25);
@@ -471,6 +476,7 @@ body::before {
 .social-circle-link.fb:hover { background: #1877F2; border-color: #1877F2; }
 .social-circle-link.yt:hover { background: #FF0000; border-color: #FF0000; }
 .social-circle-link.ig:hover { background: #DD2A7B; border-color: #DD2A7B; }
+.social-circle-link.tt:hover { background: #000000; border-color: #000000; }
 
 /* Footer */
 .site-footer {
